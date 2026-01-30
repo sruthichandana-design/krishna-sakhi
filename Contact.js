@@ -1,5 +1,5 @@
 // Cart State - Using localStorage for persistence
-let cart = JSON.parse(localStorage.getItem('sereneCart')) || [];
+let cart = JSON.parse(localStorage.getItem('Krishna SakhiCart')) || [];
 
 // Product data (needed for cart operations)
 const products = [
@@ -49,7 +49,7 @@ const products = [
 
 // Save cart to localStorage
 function saveCart() {
-    localStorage.setItem('sereneCart', JSON.stringify(cart));
+    localStorage.setItem('Krishna SakhiCart', JSON.stringify(cart));
 }
 
 // Add to Cart
