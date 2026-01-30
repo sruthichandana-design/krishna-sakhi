@@ -1,4 +1,4 @@
-# SERENE - Fine Jewelry Website
+# Krishna sakhi - Fine Jewelry Website
 
 A refined, elegant multi-page jewelry website with shopping cart functionality and contact form.
 
@@ -13,7 +13,7 @@ A refined, elegant multi-page jewelry website with shopping cart functionality a
 ## File Structure
 
 ```
-serene-jewelry/
+Krishna sakhi-jewelry/
 ├── index.html          - Home page
 ├── collection.html     - Products page
 ├── about.html          - About page
